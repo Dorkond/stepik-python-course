@@ -4,7 +4,7 @@ Code for the Bioinformatics Institute Programming in Python course
 Course material can be found [here](https://stepik.org/course/67/syllabus)  
 
 # Cource syllabus  
-1. [**Операторы. Переменные. Типы данных. Условия**](https://github.com/Dorkond/stepik-python-course/tree/master/Module%201) 
+1. [**Операторы. Переменные. Типы данных. Условия**](https://github.com/Dorkond/stepik-python-course/tree/master/Module%201)  
 		1.5 Операции с целыми числами  
 		1.6 Операции с вещественными числами  
 		1.7 Типы данных  
