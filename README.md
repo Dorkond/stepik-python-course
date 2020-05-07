@@ -1,5 +1,5 @@
 # stepik-python-course
-![Stepik logo](/images/stepik-logo.png) 
+![Stepik logo](/images/stepik-logo.png)  
 Code for the Bioinformatics Institute Programming in Python course  
 Course material can be found [here](https://stepik.org/course/67/syllabus)  
 
