@@ -14,9 +14,9 @@ Course material can be found [here](https://stepik.org/course/67/syllabus)
 		1.11 Строки  
 		1.12 Задачи по материалам недели  
 2.[**Циклы. Строки. Списки**](https://github.com/Dorkond/stepik-python-course/tree/master/Module%202) 
-		2.1 Цикл while
-		2.2 Операторы break, continue
-		2.3 Цикл for
-		2.4 Строки и символы
-		2.5 Списки
-		2.6 Задачи по материалам недели
+		2.1 Цикл while  
+		2.2 Операторы break, continue  
+		2.3 Цикл for  
+		2.4 Строки и символы  
+		2.5 Списки  
+		2.6 Задачи по материалам недели  
