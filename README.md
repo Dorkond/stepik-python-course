@@ -2,6 +2,7 @@
 ![Stepik logo](/images/stepik-logo.png)  
 Code for the Bioinformatics Institute Programming in Python course  
 Course material can be found [here](https://stepik.org/course/67/syllabus)  
+Certificate can be found [here](https://github.com/Dorkond/stepik-python-course/blob/master/cert.pdf)
 
 # Course syllabus  
 1. [**Операторы. Переменные. Типы данных. Условия**](https://github.com/Dorkond/stepik-python-course/tree/master/Module%201)  
